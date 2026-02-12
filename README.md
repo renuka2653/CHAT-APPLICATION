@@ -13,4 +13,4 @@ Intern ID: CTIS5600
 
 Task := CHAT-APPLICATION 
 
-output:=
+output:= <img width="1246" height="847" alt="Image" src="https://github.com/user-attachments/assets/9e769848-abc1-4cf6-9edb-ec52e87e327c" />
